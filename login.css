@@ -117,6 +117,7 @@ body {
     top: 40px;
     left: 500px;
     font-size: 85px;
+    user-select: none;
 }
 
 .school {

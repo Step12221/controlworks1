@@ -309,3 +309,18 @@ body {
     width: 137px;
     overflow: hidden;
 }
+.footer{
+    width: 90%;
+    background-color: rgba(244, 238, 238, 0.436);
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+.footer p{
+    
+}
+.footername{
+    margin-right: 80px;
+}
